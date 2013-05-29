@@ -1,0 +1,39 @@
+Update to support draw/invalidation method:
+	[ ] linear bar
+		[ ] on progress update, invalidate
+	[ ] radia bar
+		[ ] on progress update, invalidate
+	[ ] border
+	[ ] graphic
+	[ ] label
+	[ ] textarea
+	[ ] button
+	[ ] simple button
+	[ ] slider
+	[ ] scroll bar
+	[ ] window
+	[ ] custom window
+	[ ] window manager
+	[ ] slider
+
+[?] textinput
+
+[ ] update() on scrollbar
+[ ] update() on scrollpane
+	monitor text fields
+	monitor other children
+[ ] checkbox
+[ ] radio 
+[ ] scrollpane, add children
+[ ] boxes
+	[ ] hbox
+	[ ] vbox
+
+
+[x] editable text area
+[x] label
+[x] textarea extend label
+[x] scrollbar, separate positioning from actual thumbposition like slider
+[x] default button border
+[x] default slider border
+[x] default scroll border
